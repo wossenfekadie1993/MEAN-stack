@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wossen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wossenfekadie1993/MEAN-stack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wossenfekadie1993/MEAN-stack/issues"
+  },
+  "homepage": "https://github.com/wossenfekadie1993/MEAN-stack#readme",
+  "description": ""
+}
