@@ -1,6 +1,8 @@
 const fs =require('fs')
 
 // reading file
+
+
 // fs.readFile('./blog.txt',(err,data)=>{
 //     if(err){
 //         console.log(err)

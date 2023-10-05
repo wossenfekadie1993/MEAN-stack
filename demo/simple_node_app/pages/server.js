@@ -20,6 +20,8 @@ http
           res.end('<h1>404 file not found</h1>')
           
       }
+
+      
     
     // fs.readFile(dir+path, (err, data) => {
     //   if (err) {

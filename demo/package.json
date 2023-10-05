@@ -15,5 +15,8 @@
     "url": "https://github.com/wossenfekadie1993/MEAN-stack/issues"
   },
   "homepage": "https://github.com/wossenfekadie1993/MEAN-stack#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "pub": "^0.2.0"
+  }
 }
